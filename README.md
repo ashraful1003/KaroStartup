@@ -8,4 +8,4 @@ I have done this project for the purpose of one of my interviews. This app is ba
 
 Here are some screenshots related to this project:
 
-![Screenshot_1669291706](https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png)
+![Screenshot_1669291706](https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png | height=250)
