@@ -10,4 +10,4 @@ Here are some screenshots related to this project:
 
 ![Screenshot_1669291706](https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png)
 
-<img src="https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png" data-canonical-src="https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png"height="250" />
+<img src="https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png" data-canonical-src="https://user-images.githubusercontent.com/76874409/203781191-2047f60f-064f-44bd-b4fd-f63c386a4396.png" height="250" />
