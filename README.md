@@ -1,16 +1,12 @@
-# karostartup
+# KaroStartup
 
-A new Flutter project.
+This project is done for an interview.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I have done this project for the purpose of one of my interviews. This app is basically based on E-commerce app, and products are shown in list-view.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshots related to this project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
